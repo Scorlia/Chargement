@@ -1,0 +1,2 @@
+# Chargement
+Icône de chargement
